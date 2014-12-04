@@ -5,7 +5,7 @@ function setup() {
   // The background image must be the same size as the parameters
   // into the size() method. In this program, the size of the image
   // is 710x400 pixls.
-  bg = loadImage("jmj/p.jpg");
+  bg = loadImage("jmj/jmj/p.jpg");
   createCanvas(720, 400);
 }
 
