@@ -16,7 +16,7 @@ function setup() {
 
   bg = loadImage("jmj/p.jpg");
 
-  createCanvas(720, 400);
+  
   current = createVector(0,0);
   previous = createVector(0,0);
 };
